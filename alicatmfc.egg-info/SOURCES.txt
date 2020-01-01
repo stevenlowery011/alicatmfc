@@ -1,0 +1,9 @@
+README.md
+setup.py
+alicatmfc/__init__.py
+alicatmfc/flow_control_alicat_driver.py
+alicatmfc.egg-info/PKG-INFO
+alicatmfc.egg-info/SOURCES.txt
+alicatmfc.egg-info/dependency_links.txt
+alicatmfc.egg-info/requires.txt
+alicatmfc.egg-info/top_level.txt
