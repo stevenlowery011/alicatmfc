@@ -12,7 +12,7 @@ setuptools.setup(
     description="A package for controlling Alicat mass flow controllers with Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/stevenlowery011/alicatmfc",
     packages=setuptools.find_packages(),
 	install_requires=['pyserial'],
 	classifiers=[
