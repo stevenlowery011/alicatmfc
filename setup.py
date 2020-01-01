@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="alicatmfc",
-    version="0.0.1",
+    version="0.0.2",
     author="Steven Lowery",
     author_email="steven.lowery011@gmail.com",
     description="A package for controlling Alicat mass flow controllers with Python",

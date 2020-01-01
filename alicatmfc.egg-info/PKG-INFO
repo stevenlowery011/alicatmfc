@@ -1,14 +1,17 @@
 Metadata-Version: 2.1
 Name: alicatmfc
-Version: 0.0.1
+Version: 0.0.2
 Summary: A package for controlling Alicat mass flow controllers with Python
-Home-page: UNKNOWN
+Home-page: https://github.com/stevenlowery011/alicatmfc
 Author: Steven Lowery
 Author-email: steven.lowery011@gmail.com
 License: UNKNOWN
 Description: # Alicat mass flow controller python package
         
         This is a package for controlling Alicat mass flow controllers with Python. 
+        
+        This is a basic package. A better version exists with more features here: https://github.com/numat/alicat
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
